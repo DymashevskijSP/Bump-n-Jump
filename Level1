@@ -1,0 +1,69 @@
+1
+0 0 1200 700 background.jpg
+
+26
+0 700 1200 100
+0 -100 30 1000
+0 600 200 20
+500 600 150 20
+300 470 200 20
+1200 0 60 1000
+150 530 80 20
+400 300 300 20
+0 850 1000 100
+0 300 150 20
+950 200 100 20
+750 470 150 150
+300 100 100 20
+600 100 120 20
+700 200 100 20
+1100 300 100 20
+1050 500 150 20
+200 350 100 20
+380 200 100 20
+800 100 100 20
+600 500 100 20
+700 400 100 20
+50 190 50 15
+100 100 100 20
+300 650 100 20
+800 300 100 20
+6
+870 280 30 300
+900 550 150 30
+1050 280 20 300
+1050 280 200 15
+750 600 20 100
+950 50 20 150
+5
+300 100 35
+RabbitLeftAI.png
+RabbitRightAI.png
+RabbitStopAI.png
+
+500 100 35
+RabbitLeftAI.png
+RabbitRightAI.png
+RabbitStopAI.png
+
+700 100 35
+RabbitLeftAI.png
+RabbitRightAI.png
+RabbitStopAI.png
+
+400 100 35
+RabbitLeftAI.png
+RabbitRightAI.png
+RabbitStopAI.png
+600 100 35
+RabbitLeftAI.png
+RabbitRightAI.png
+RabbitStopAI.png
+0
+800 600 300 100
+Firstly input number of backgrounds and their coordinates
+Then input number of walls.
+Then enter Walls' coordinates: x, y, w, h
+then input number of invisible walls
+and their coordinates
+then input number of fake walls and their coordinates

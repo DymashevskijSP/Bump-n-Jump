@@ -1,0 +1,32 @@
+3
+100 100 35
+RabbitLeftPlayer.png
+RabbitRightPlayer.png
+RabbitStopPlayer.png
+600 100 35
+RabbitLeftPlayer.png
+RabbitRightPlayer.png
+RabbitStopPlayer.png
+
+500 100 35
+RabbitLeftPlayer.png
+RabbitRightPlayer.png
+RabbitStopPlayer.png
+87 65 68
+38 37 39
+73 74 76
+500 100 35
+RabbitLeftPlayer.png
+RabbitRightPlayer.png
+RabbitStopPlayer.png
+700 100 35
+RabbitLeftPlayer.png
+RabbitRightPlayer.png
+RabbitStopPlayer.png
+73 74 76
+104 100 102
+input  numbers:
+start coordinates of player, his size
+input  numbers:
+up, left, right codes for first player
+and up, left and right codes for second player
